@@ -100,15 +100,15 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+![plot of plot2](figure/plot2.png) 
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+![plot of plot3](figure/plot3.png) 
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+![plot of plot4](figure/plot4.png) 
 
